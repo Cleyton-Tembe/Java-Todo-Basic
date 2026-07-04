@@ -1,0 +1,12 @@
+.wrapper-todo{
+    width: 100%;
+}
+
+.container-todo{
+    width: 100%;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
